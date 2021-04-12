@@ -1,6 +1,6 @@
 # Howdy 👋
 
-## I'm Tom!
+### I'm Tom!
 
 You found my Github profile! ⚡  
 🌎 http://tomc.xyz/  
