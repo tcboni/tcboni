@@ -9,9 +9,10 @@ You found my Github profile! ⚡
 
 ### My side projects:
 🧪 **[→ Sandbox](https://tcboni.github.io/sandbox/)**  
+🎨 **[→ SVG Tool](https://tcboni.github.io/svg-tool/)**  
 🧩 **[→ JSON Tool](https://tcboni.github.io/json-tool/)**  
 🗝️ **[→ Decoder Tool](https://tcboni.github.io/decoder-tool/)**  
-🎨 **[→ SVG Tool](https://tcboni.github.io/svg-tool/)**  
+🔎 **[→ Regex Tool](https://tcboni.github.io/regex-tool/)**  
 🪄 **[→ CSS Tool](https://tcboni.github.io/css-tool/)**  
 🌐 **[→ HTTP Tool](https://tcboni.github.io/http-tool/)**  
 🎧 **[→ Audio Tool](https://tcboni.github.io/audio-tool/)**  
