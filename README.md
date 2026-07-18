@@ -11,6 +11,7 @@ You found my Github profile! ⚡
 🧪 **[→ Sandbox](https://tcboni.github.io/sandbox/)**  
 🎨 **[→ SVG Tool](https://tcboni.github.io/svg-tool/)**  
 🪪 **[→ QR Tool](https://tcboni.github.io/qr-tool/)**  
+✏️ **[→ Text Tool](https://tcboni.github.io/text-tool/)**  
 🧩 **[→ JSON Tool](https://tcboni.github.io/json-tool/)**  
 🗝️ **[→ Decoder Tool](https://tcboni.github.io/decoder-tool/)**  
 🔎 **[→ Regex Tool](https://tcboni.github.io/regex-tool/)**  
