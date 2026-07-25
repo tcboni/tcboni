@@ -17,6 +17,7 @@ You found my Github profile! ⚡
 🔎 **[→ Regex Tool](https://tcboni.github.io/regex-tool/)**  
 📐 **[→ Pattern Tool](https://tcboni.github.io/pattern-tool/)**  
 🫆 **[→ Fingerprint Tool](https://tcboni.github.io/fingerprint-tool/)**  
+🗃️ **[→ File Tool](https://tcboni.github.io/file-tool/)**  
 🪄 **[→ CSS Tool](https://tcboni.github.io/css-tool/)**  
 🌐 **[→ HTTP Tool](https://tcboni.github.io/http-tool/)**  
 🎧 **[→ Audio Tool](https://tcboni.github.io/audio-tool/)**  
