@@ -19,7 +19,7 @@ You found my Github profile! ⚡
 🫆 **[→ Fingerprint Tool](https://tcboni.github.io/fingerprint-tool/)**  
 🗃️ **[→ File Tool](https://tcboni.github.io/file-tool/)**  
 🖥️ **[→ Screen Tool](https://tcboni.github.io/screen-tool/)**  
-🪄 **[→ CSS Tool](https://tcboni.github.io/css-tool/)**  
+🌈 **[→ Gradient Tool](https://tcboni.github.io/gradient-tool/)**  
 🌐 **[→ HTTP Tool](https://tcboni.github.io/http-tool/)**  
 🎧 **[→ Audio Tool](https://tcboni.github.io/audio-tool/)**  
 🌱 **[→ Life](https://tcboni.github.io/life/)**  
