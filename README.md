@@ -9,7 +9,7 @@ You found my Github profile! ⚡
 
 ### My side projects:
 🧪 **[→ Sandbox](https://tcboni.github.io/sandbox/)**  
-🎨 **[→ SVG Tool](https://tcboni.github.io/svg-tool/)**  
+🖼️ **[→ SVG Tool](https://tcboni.github.io/svg-tool/)**  
 🪪 **[→ QR Tool](https://tcboni.github.io/qr-tool/)**  
 ✏️ **[→ Text Tool](https://tcboni.github.io/text-tool/)**  
 🧩 **[→ JSON Tool](https://tcboni.github.io/json-tool/)**  
@@ -20,6 +20,7 @@ You found my Github profile! ⚡
 🗃️ **[→ File Tool](https://tcboni.github.io/file-tool/)**  
 🖥️ **[→ Screen Tool](https://tcboni.github.io/screen-tool/)**  
 🌈 **[→ Gradient Tool](https://tcboni.github.io/gradient-tool/)**  
+🌘 **[→ Shadow Tool](https://tcboni.github.io/shadow-tool/)**  
 🌐 **[→ HTTP Tool](https://tcboni.github.io/http-tool/)**  
 🎧 **[→ Audio Tool](https://tcboni.github.io/audio-tool/)**  
 🌱 **[→ Life](https://tcboni.github.io/life/)**  
